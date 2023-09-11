@@ -3,4 +3,4 @@
 To install just clone and run:
 ```
 npm or yarn i
-```bash
+``` bash
